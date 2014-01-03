@@ -14,6 +14,26 @@ or at most with 'fairness' towards everyone in mind.
 Credits go to the original authors/communities that
 created Bitcoin, Litecoin and SmallChange.
 
+Binary Qt-Clients
+===================
+
+Windows-Build:  https://dl.dropboxusercontent.com/u/12001721/leprocoin-qt-win.zip
+
+OSX-Build:  https://dl.dropboxusercontent.com/u/12001721/leprocoin-qt-mac.zip
+
+
+leprocoin.conf
+===================
+
+    rpcuser=your-user
+    rpcpassword=your-pass
+    rpcport=9031
+    addnode=195.39.206.15
+    addnode=91.250.113.69
+    server=1
+    deamon=1
+
+
 Development process
 ===================
 
