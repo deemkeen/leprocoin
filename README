@@ -6,7 +6,6 @@ as a proof of work scheme and is intended for microtransactions.
  - 4 coins per generated block
  - difficulty retargets every 0.35 days
  - currently peers are looked up over IRC only
- - currently peers are looked up over IRC only
 
 Other than that, this coin is exactly like Litecoin and could be used
 as a real cryptocurrency. All of the coin parameters are chosen arbitrarily
@@ -14,6 +13,26 @@ or at most with 'fairness' towards everyone in mind.
 
 Credits go to the original authors/communities that
 created Bitcoin, Litecoin and SmallChange.
+
+Binary Qt-Clients
+===================
+
+Windows-Build:  https://dl.dropboxusercontent.com/u/12001721/leprocoin-qt-win.zip
+
+OSX-Build:  https://dl.dropboxusercontent.com/u/12001721/leprocoin-qt-mac.zip
+
+
+leprocoin.conf
+===================
+
+    rpcuser=your-user
+    rpcpassword=your-pass
+    rpcport=9031
+    addnode=195.39.206.15
+    addnode=91.250.113.69
+    server=1
+    deamon=1
+
 
 Development process
 ===================
