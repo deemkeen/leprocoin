@@ -28,8 +28,10 @@ leprocoin.conf
     rpcuser=your-user
     rpcpassword=your-pass
     rpcport=9031
-    addnode=195.39.206.15
     addnode=91.250.113.69
+    addnode=195.39.206.15
+    addnode=93.186.202.8
+    addnode=77.180.79.191
     server=1
     deamon=1
 
