@@ -17,9 +17,9 @@ created Bitcoin, Litecoin and SmallChange.
 Binary Qt-Clients
 ===================
 
-Windows-Build:  https://dl.dropboxusercontent.com/u/12001721/leprocoin-qt-win.zip
+Windows-Build:  http://leprocoin.org/leprocoin-qt-win.zip
 
-OSX-Build:  https://dl.dropboxusercontent.com/u/12001721/leprocoin-qt-mac.zip
+OSX-Build:  http://leprocoin.org/leprocoin-qt-mac-new.zip
 
 
 leprocoin.conf
@@ -33,7 +33,7 @@ leprocoin.conf
     addnode=93.186.202.8
     addnode=77.180.79.191
     server=1
-    deamon=1
+    daemon=1
 
 
 Development process
