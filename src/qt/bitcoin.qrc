@@ -48,7 +48,6 @@
         <file alias="about">res/images/about.png</file>
         <file alias="splash">res/images/splash2.jpg</file>
         <file>res/images/leprocoin.png</file>
-        <file>res/images/leprocoin-small.png</file>
     </qresource>
     <qresource prefix="/movies">
         <file alias="update_spinner">res/movies/update_spinner.mng</file>
